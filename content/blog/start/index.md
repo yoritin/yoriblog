@@ -9,3 +9,15 @@ description: "ブログを開設しました。よろしくお願いします！
 
 このブログでは日々役立つ情報を発信していけばと思います
 よろしくお願いします。
+
+
+
+```
+git remote add origin master
+```
+
+```
+git add .
+git commit -m "first commit"
+git push
+```

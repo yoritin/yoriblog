@@ -6,7 +6,7 @@
  */
 
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
@@ -60,6 +60,15 @@ const Bio = () => {
           You should follow him on Twitter
         </a>
       </p>
+      <Link
+        to="/about"
+        style={{
+          fontSize: 'small',
+        }}
+      >
+        もっと詳しく
+      </Link>
+
     </div>
   )
 }
