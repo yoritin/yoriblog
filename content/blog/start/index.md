@@ -1,7 +1,7 @@
 ---
-title: start
+title: ブログ開設しました
 date: "2019-12-01T22:12:03.284Z"
-description: "Hello World"
+description: "ブログを開設しました。よろしくお願いします！"
 ---
 
 
