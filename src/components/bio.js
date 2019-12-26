@@ -57,11 +57,11 @@ const Bio = () => {
         こんにちは、<strong>{author}</strong>です。
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          Twitter
+          [Twitter]
         </a>
         |
         <a href={`https://github.com/yoritin`}>
-          Github
+          [Github]
         </a>
       </p>
       <Link
