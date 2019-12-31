@@ -23,6 +23,7 @@ git add .
 git commit -m "first commit"
 ```
 
+ローカルリポジトリにリモートリポジトリを紐付ける
 ```
 git remote add origin <ssh>
 ```
