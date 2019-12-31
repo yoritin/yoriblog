@@ -10,7 +10,7 @@ description: "自己紹介です"
 
 ### バックエンド
 PHP / Laravel
-
+TDD開発学習中
 
 ### フロントエンド
 sass / bootstrap / Vue.js / Vuetify / gatsbyjs
