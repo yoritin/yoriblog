@@ -17,6 +17,8 @@ commit範囲を指定
 git add .
 ```
 
+コミット  
+`-m "コミットメッセージ"`
 ```
 git commit -m "first commit"
 ```
