@@ -28,6 +28,8 @@ git commit -m "first commit"
 git remote add origin <ssh>
 ```
 
+ローカルリポジトリの変更内容をリモートリポジトリに反映させる  
+`-u`オプションで次回から`git push`だけで push できる
 ```
 git push -u origin master
 ```
